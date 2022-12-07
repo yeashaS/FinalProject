@@ -1,0 +1,51 @@
+.inputBox{
+    height: 35px;
+    background-color: rgba(255,255,255, .4);
+    border-color: rgba(169,169,169, .4);
+    border-radius: 10px;
+    padding-left: 5px;
+}
+.formLeft{
+   text-align: left;
+    padding-left: 10%;
+    display: flex;
+}
+.dropDown{
+    position:relative;
+    display: inline;
+}
+.dropDownContent{
+    display: none;
+    /*position: absolute;*/
+
+}
+.dropDownContentDisplayed{
+    display: block;
+    /*position: absolute;*/
+    /*background-color: rgba(255,255,255, .7);*/
+    /*border-radius: 10px;*/
+    padding: 10px;
+    /*margin-right: auto;*/
+    width: 30%;
+}
+.dropDownContentDisplayed li{
+    list-style-type: none;
+}
+.dropDownContentDisplayed img{
+    width: 100%;
+    filter: drop-shadow(4px 4px 3px #808080);
+
+}
+.dropDown button{
+    background-color: transparent;
+    outline: none;
+    border: none;
+    filter: drop-shadow(4px 4px 3px #808080);
+    width: 35%;
+}
+.dropDown img{
+width: 100%;
+}
+.dropDown p{
+    padding: 0px;
+}

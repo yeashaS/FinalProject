@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Barents Irkutsk",
+    "image" : "/images/pics/NPC/BarentsIrkutsk.png",
+    "Species": "Vulpes",
+    "Subspecies" : "Lagopus",
+    "Location": "Stormcrest"
+  },
+  {
+    "name": "Snezhinka Fallon",
+    "image" : "/images/pics/NPC/SnezhinkaFallon.png",
+    "Species": "Vulpes",
+    "Subspecies" : "Lagopus",
+    "Location": "Stormcrest"
+  },
+  {
+    "name": "Eirwen Fallon",
+    "image" : "/images/pics/NPC/EirwenFallon.png",
+    "Species": "Vulpes",
+    "Subspecies" : "Lagopus",
+    "Location": "Stormcrest"
+  },
+  {
+    "name": "Douglas Fallon",
+    "image" : "/images/pics/NPC/DouglasFallon.png",
+    "Species": "Vulpes",
+    "Subspecies" : "Lagopus",
+    "Location": "Stormcrest"
+  },
+  {
+    "name": "Froid Angerbjorn",
+    "image" : "/images/pics/NPC/FroidAngerbjorn.png",
+    "Species": "Vulpes",
+    "Subspecies" : "Lagopus",
+    "Location": "Windwall"
+  },
+  {
+    "name": "Jan Qiuzhudingi",
+    "image" : "/images/pics/NPC/JanQiuzhudingi.png",
+    "Species": "Vulpes",
+    "Subspecies" : "Lagopus",
+    "Location": "Windwall"
+  },
+  {
+    "name": "Linnaeus Quinzee",
+    "image" : "/images/pics/NPC/LinnaeusQuinzee.png",
+    "Species": "Vulpes",
+    "Subspecies" : "Lagopus",
+    "Location": "Windwall"
+  },
+  {
+    "name": "Motlosi Otocyon",
+    "image" : "/images/pics/NPC/MotlosiOtocyon.png",
+    "Species": "Vulpes",
+    "Subspecies" : "Megalotis",
+    "Location": "Guild"
+  },
+  {
+    "name": "Hermann Lamont",
+    "image" : "/images/pics/NPC/HermannLamont.png",
+    "Species": "Aves",
+    "Subspecies" : "Schlegli",
+    "Location": "Frostreach"
+  },
+  {
+    "name": "Aurora Mendoza",
+    "image" : "/images/pics/NPC/AuroraMendoza.png",
+    "Species": "Aves",
+    "Subspecies" : "Foristeri",
+    "Location": "Frostreach"
+  },
+  {
+    "name": "Ded Abrego",
+    "image" : "/images/pics/NPC/DedAbrego.png",
+    "Species": "Aves",
+    "Subspecies" : "Foristeri",
+    "Location": "Windwall"
+  },
+  {
+    "name": "Cypress Cook",
+    "image" : "/images/pics/NPC/CypressCook.png",
+    "Species": "Aves",
+    "Subspecies" : "Foristeri",
+    "Location": "Windwall"
+  },
+  {
+  "name": "Natalie Cook",
+  "image" : "/images/pics/NPC/NatalieCook.png",
+  "Species": "Aves",
+  "Subspecies" : "Foristeri",
+  "Location": "Windwall"
+},
+  {
+    "name": "Snow Caldwell",
+    "image" : "/images/pics/NPC/SnowCaldwell.png",
+    "Species": "Aves",
+    "Subspecies" : "Foristeri",
+    "Location": "Windwall"
+  },
+  {
+    "name": "Reinhold Kaze",
+    "image" : "/images/pics/NPC/ReinholdKaze.png",
+    "Species": "Aves",
+    "Subspecies" : "Foristeri",
+    "Location": "Windwall"
+  },
+  {
+    "name": "Olwen Frost",
+    "image" : "/images/pics/NPC/OlwenFrost.png",
+    "Species": "Aves",
+    "Subspecies" : "Foristeri",
+    "Location": "Windwall"
+  },
+  {
+    "name": "Nick Mendoza",
+    "image" : "/images/pics/NPC/NickMendoza.png",
+    "Species": "Aves",
+    "Subspecies" : "Foristeri",
+    "Location": "Frostreach"
+  },
+  {
+    "name": "Neve Mendoza",
+    "image" : "/images/pics/NPC/NeveMendoza.png",
+    "Species": "Aves",
+    "Subspecies" : "Foristeri",
+    "Location": "Windwall"
+  },
+  {
+    "name": "Malcom Kaze",
+    "image" : "/images/pics/NPC/MalcomeKaze.png",
+    "Species": "Aves",
+    "Subspecies" : "Foristeri",
+    "Location": "Windwall"
+  },
+  {
+    "name": "Gray Abrego",
+    "nameID": "GrayAbrego",
+    "image" : "/images/pics/NPC/GrayAbrego.png",
+    "Species": "Aves",
+    "Subspecies" : "Foristeri",
+    "Location": "Windwall",
+    "Link" : "/lore/NPC/GrayAbrego.html",
+    "Basic": "As a long-time member of the Guiding Lights, Gray has spent many nights traveling through storms and braving the Southern Wind causing her attitude to match her surroundings, that is to say cold. She softens up when around children and anyone who is scared, hurt, or nervous. Although she doesn't believe that the Guiding Lights are still really looking for their lost Emperor, she still honors her subspecies legend by telling it around a warm fire to those she rescues from storms. She was one of the youngest Animalian to become a member of the Guiding Lights having decided early on she was going to become one after they rescued her from a fierce winter storm. ",
+    "Full": ["aaaa","aaaa"],
+    "Adventure": ["1) If a PC (Player Character) wishes to play Gray, her call to adventure could be something along the lines of her finding a lost child who can't talk in a storm without any parents. Not wanting them to be on their own she takes a break from the GL and decides to try to track down the child's parents.","2) Alternatively she could have heard a story that her mother was spotted in a far away land and quickly leaves to go and try to figure out if the rumors are true.","If she does not heed a call to adventure she will spend most of her life as a Guiding Light and eventually forms a crush on and marries Malcom's older brother Rinhold. As a fellow GL he helps her to slowly overcome her fear of deep water and properly morn/ let go of her mother. As they get older they eventually settle down in Windwall and start a family together where they and their kids are one of the best search and rescue teams out there."],
+    "Outfit": "Main outfit | A pair of bronze-colored goggles sit on her head helping to hold on her dark blue trapper hat. On the flaps that hang down from either side of her head are two bronze buttons that can be clamped together to help retain heat. The inside of the hat is lined with thick, warm fur. Her jacket is a rich blue color making it easy to spot in raging snow storms and around her waist sits a light blue belt. On one side of the belt is a bag used for holding necessary supplies and on the other side is a small, but sharp knife that she uses in a pinch to cut wood, hunt fish, or defend herself against all manner of creatures. On the left side of her jacket near her chest sits the Guiding Lights logo embroidered into a light blue patch. She wears thick, white gloves and insulated dark blue pants. To protect her feet she has black boots that are lined with warm fur and thick souls. The lantern she carries through storms is a classic hood shape. \n\nShe is a Foristeri has dark brown ancient eyes. Basic species reference sheet can be found here. Please look at this for common errors people make when drawing this species.",
+    "More": ["Ideas for what you could draw her doing:","Wandering around with her lantern held high in a snowstorm","teaching Malcome how to navigate the frozen tundra","Her being terrified of deep water and Reinhold helping her overcome the fear","Telling the legend of the Emperor's Penguins to travelers who got lost in a snowstorm within one of the Guiding Lights Outposts","her seeing her mother's spirit' in the snowflakes during a harsh storm","taking time out to eat a meal at the Arctic Eatery either by herself or with other members of the Guiding Lights"],
+    "Song": "https://www.youtube.com/watch?v=o2LXOYj5S7M&ab_channel=Jo%C3%A3oDuarte - a bit of an allusion to when she lost her mom, but also a shows her sense of determination to not let the Southern Wind win."
+  },
+  {
+    "name": "Lumi Morozov",
+    "image" : "/images/pics/NPC/LumiMorozov.png",
+    "Species": "Aves",
+    "Subspecies" : "Foristeri",
+    "Location": "Windwall"
+  },
+  {
+    "name": "Albus Fallon",
+    "image" : "/images/pics/NPC/AlbusFallon.png",
+    "Species": "Vulpes",
+    "Subspecies" : "Lagopus",
+    "Location": "Stormcrest"
+  }
+,
+  {
+    "name": "Alopex Appert",
+    "image" : "/images/pics/NPC/AlopexAppert.png",
+    "Species": "Vulpes",
+    "Subspecies" : "Lagopus",
+    "Location": "Windwall"
+  }
+]

@@ -1,0 +1,7 @@
+.nameHeader{
+    position: relative;
+    width: 80%;
+    float:left;
+    left: -10px;
+    filter: drop-shadow(4px 4px 3px #808080);
+}
